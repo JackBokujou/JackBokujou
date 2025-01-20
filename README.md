@@ -5,3 +5,6 @@
 - 📫 Se quiser conversar comigo envie um E-Mail para: rafadev@tuta.io
 - Por favor visite o blog: https://harvestmoonguiablog.wordpress.com
 - Por favor visite também o site dos guias: https://jackbokujou.github.io
+
+O repositorio do Website dos guias estao em "Jackbokujou.github.io". Voce pode da uma olhada nele, baixar como zip ou clona-lo.
+Por favor leia a licenca.
