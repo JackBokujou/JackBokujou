@@ -8,3 +8,7 @@
 
 O repositorio do Website dos guias estao em "Jackbokujou.github.io". Voce pode da uma olhada nele, baixar como zip ou clona-lo.
 Por favor leia a licenca.
+
+Por favor considere comprar um cafezinho pra mim:
+<br />
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R2X8VD2)
